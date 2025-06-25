@@ -4,7 +4,7 @@
       <article class="container mx-auto">
         <article class="flex md:flex-row flex-col md:gap-0 sm:gap-5 gap-6 items-center justify-between mx-8">
           <article class="flex flex-col xl:gap-4 gap-1">
-            <h4 class="text-indigo-900 xl:text-4xl md:text-left text-center md:text-2xl text-lg font-bold">Get notified
+            <h4 class="text-indigo-950 xl:text-4xl md:text-left text-center md:text-2xl text-lg font-bold">Get notified
               when I publish new articles</h4>
             <p class="text-slate-800 xl:text-2xl md:text-lg sm:text-base text-sm md:text-left text-center">Stay up to
               date with the latest news, announcements, and articles.</p>
@@ -31,7 +31,7 @@
           </article>
           <article class="flex sm:flex-row flex-col lg:gap-8 md:gap-55 sm:gap-35 gap-8 xl:w-12/12 lg:w-9/12">
             <article class="sm:w-6/12 flex flex-col lg:gap-4 gap-2.5">
-              <h6 class="sm:text-left text-center sm:text-sm text-base font-bold text-indigo-900">Pages</h6>
+              <h6 class="sm:text-left text-center sm:text-sm text-base font-bold text-indigo-950">Pages</h6>
               <ul
                 class="flex flex-col lg:text-base sm:text-sm text-base lg:gap-3 gap-2.5 text-slate-800 opacity-50 sm:text-left text-center">
                 <li><a href="/">Home</a></li>
@@ -42,7 +42,7 @@
               </ul>
             </article>
             <article class="sm:w-6/12 flex flex-col lg:gap-4 gap-2.5">
-              <h6 class="sm:text-left text-center sm:text-sm text-base font-bold text-indigo-900">Contact</h6>
+              <h6 class="sm:text-left text-center sm:text-sm text-base font-bold text-indigo-950">Contact</h6>
               <ul
                 class="flex flex-col lg:gap-3 gap-2.5 text-slate-800 lg:text-base sm:text-sm text-base opacity-50 sm:text-left text-center">
                 <li><a href="tel: +123456789">+123 456 789</a></li>
@@ -102,6 +102,7 @@
 <style scoped>
 .svg_footer_1:hover {
   cursor: pointer;
+
   &>g>path {
     fill: #0A66C2;
   }
@@ -109,6 +110,7 @@
 
 .svg_footer_2:hover {
   cursor: pointer;
+
   &>g>path {
     fill: #1877F2;
   }
@@ -117,6 +119,7 @@
 .svg_footer_3:hover {
   cursor: pointer;
   fill: #EA4C89;
+
   &>path {
     fill: #C32361;
   }

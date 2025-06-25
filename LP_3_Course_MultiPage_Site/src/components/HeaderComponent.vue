@@ -8,7 +8,7 @@ function toggleHeaderMenu() {
 </script>
 
 <template>
-    <header
+  <header
     class="flex sm:flex-row flex-row-reverse items-center justify-between lg:py-2.5 py-3 lg:ps-21 sm:ps-7 ps-5 lg:pe-19 pe-5">
     <svg @click="toggleHeaderMenu" width="40" height="27" viewBox="0 0 40 27" fill="none"
       xmlns="http://www.w3.org/2000/svg" class="block md:hidden">
@@ -24,7 +24,8 @@ function toggleHeaderMenu() {
         <a href="/about">About us</a>
         <a href="/extra-sales">Extra Salespage</a>
       </nav>
-      <a href="/free-guide" class="bg-teal-500 text-sm font-semibold py-3 px-4 rounded-lg text-white hidden sm:block">Get
+      <a href="/free-guide"
+        class="bg-teal-500 text-sm font-semibold py-3 px-4 rounded-lg text-white hidden sm:block">Get
         your free guide
         now</a>
     </article>
