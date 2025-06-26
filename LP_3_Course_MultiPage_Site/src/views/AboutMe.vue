@@ -1,3 +1,7 @@
+<script setup>
+import FeaturesSectionTheNext from '@/components/RepeatsSameComponents/FeaturesSectionTheNext.vue';
+</script>
+
 <template>
-    <h1>This is About me</h1>
+    <FeaturesSectionTheNext />
 </template>

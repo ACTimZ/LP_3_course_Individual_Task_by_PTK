@@ -1,3 +1,7 @@
+<script setup>
+import FAQsection from '@/components/RepeatsSameComponents/FAQsection.vue';
+</script>
+
 <template>
-    <h1>This is services</h1>
+    <FAQsection />
 </template>
