@@ -30,7 +30,7 @@ let faq = ref([
 </script>
 
 <template>
-    <section class="container mx-auto">
+    <section class="container mx-auto lg:py-24 md:py-15 py-12">
         <article class="sm:mx-8 mx-5 flex flex-col lg:gap-16 sm:gap-12 gap-6 items-center">
             <article class="flex flex-col items-center lg:gap-5 gap-2.5">
                 <h2 class="text-indigo-950 font-bold text-center lg:text-5xl text-3xl">Good to know.</h2>
