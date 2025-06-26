@@ -21,7 +21,7 @@
                             class="hidden sm:block bg-teal-500 sm:text-sm text-lg 2xl:text-base py-2.25 px-11.25 rounded-xl text-white">Get
                             your free guide now</a>
                         <a href="/free-guide"
-                            class="bg-teal-500 sm:text-sm text-lg 2xl:text-base py-2.25 px-11.25 rounded-xl text-white block sm:hidden">Get
+                            class="bg-teal-500 text-sm 2xl:text-base py-2.25 px-11.25 rounded-xl text-white block sm:hidden">Get
                             free guide</a>
                     </article>
                 </article>
